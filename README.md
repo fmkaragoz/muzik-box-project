@@ -44,7 +44,9 @@ This project is a simple HTML music player that utilizes JavaScript and Font Awe
 - Google Fonts: Open Sans and Poppins fonts.
 
 ## ScreenShot
-![muzik_app](https://github.com/fmkaragoz/muzik-box-project/assets/148713912/48b0ef8b-a700-48b7-a3c9-2bbffc9c006a)
+
+![muzik_app](https://github.com/fmkaragoz/muzik-box-project/assets/148713912/7eb4cbc8-fa64-4c52-8b93-b461e1db2a43)
+
 
 
 
