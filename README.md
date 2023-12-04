@@ -45,7 +45,7 @@ This project is a simple HTML music player that utilizes JavaScript and Font Awe
 
 ## ScreenShot
 
-![muzik-app](https://github.com/fmkaragoz/muzik-box-project/assets/148713912/81cfb52f-5aa0-4c8e-b9b7-8c411b2158f0)
+
 
 
 
